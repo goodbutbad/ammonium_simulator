@@ -11,11 +11,13 @@
 
 Главное окно:
 
-![Главное окно](screenshots/main_window.png)
+![Главное окно](screenshots/main.png)
 
 График результатов:
 
-![Результат](screenshots/result_plot.png)
+![Результат](screenshots/graph(1).png)
+![Результат](screenshots/graph(2).png)
+
 
 ## Запуск
 
