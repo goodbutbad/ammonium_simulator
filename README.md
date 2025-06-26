@@ -27,7 +27,7 @@ python main.py
 
 ## Зависимости
 
-Установи библиотеки:
+Install libraries:
 
 ```bash
 pip install -r requirements.txt
